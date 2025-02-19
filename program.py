@@ -26,4 +26,7 @@ letters = [['A', 'a'],
            ['Z', 'z']]
 
 for letter in letters:
-    print(letter)
+    print(letter[0])
+
+for letter in letters:
+    print(letter[1])
